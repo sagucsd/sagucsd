@@ -1,4 +1,4 @@
-![hero-la-jolla-summer](https://github.com/user-attachments/assets/d294936c-7fda-48e1-86ae-d10d845954c6)
+![Image of La Jolla beach](https://github.com/user-attachments/assets/0b4067fc-96fd-4cc9-9c10-e78312b4b396)
 ## Hi, I'm Sarai Gonzalez :dizzy: 
 ## :book: About Me
 - 🎓 Bachelor's in Cognitive Science at UC San Diego
