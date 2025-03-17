@@ -1,4 +1,4 @@
-![Image of La Jolla beach](https://github.com/user-attachments/assets/0b4067fc-96fd-4cc9-9c10-e78312b4b396)
+![Image of crowded La Jolla beach](https://github.com/user-attachments/assets/0b4067fc-96fd-4cc9-9c10-e78312b4b396)
 ## Hi! I'm Sarai Gonzalez :dizzy: 
 I'm an empathetic UX researcher & designer from San Diego. I craft user-friendly digital experiences and products. I tackle complex problems from a human-centered, data-based perspective.
 ## :book: About Me
