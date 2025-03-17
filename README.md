@@ -5,4 +5,4 @@ I'm an empathetic UX researcher & designer from San Diego. I craft user-friendly
 - 🎓 Bachelor's in Cognitive Science at UC San Diego
 - 🎨 My design philosophy revolves around making a difference in the lives of others. I think deeply about the people who will use my designs and the context of their experience.
 - 🌮 Born to Mexican immigrants, my childhood was spent living between San Diego and Tijuana. My experience as a bordertown kid gave me an appreciation for human differences and a curious, open mind when faced with new information.
-- 🌊 You can find me beachcombing, studying Japanese, solving sudoku puzzles, or watching Seinfeld in my spare time
+- 🌊 You can find me at the beach, studying Japanese, solving sudoku puzzles, or watching Seinfeld in my spare time
