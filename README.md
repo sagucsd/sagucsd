@@ -1,6 +1,6 @@
 ![Image of La Jolla beach](https://github.com/user-attachments/assets/0b4067fc-96fd-4cc9-9c10-e78312b4b396)
 ## Hi! I'm Sarai Gonzalez :dizzy: 
-I'm an empathetic UX researcher & designer from San Diego. I specialize in crafting empowering, user-friendly digital experiences and products. I solve complex problems from a human-centered, data-based perspective.
+I'm an empathetic UX researcher & designer from San Diego. I craft user-friendly digital experiences and products. I tackle complex problems from a human-centered, data-based perspective.
 ## :book: About Me
 - 🎓 Bachelor's in Cognitive Science at UC San Diego
 - 🎨 My design philosophy revolves around making a difference in the lives of others. I think deeply about the people who will use my designs and the context of their experience.
