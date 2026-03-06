@@ -1,6 +1,6 @@
 ![Image of crowded La Jolla beach](https://github.com/user-attachments/assets/0b4067fc-96fd-4cc9-9c10-e78312b4b396)
-## Hi, I'm Sara 👩‍💻 
-I'm an applied Cognitive Scientist from San Diego. I craft user-friendly digital experiences and products. I tackle complex problems from a human-centered, data-based perspective.
+## Hi, I'm Sarai 👩‍💻 
+I'm an applied Cognitive Scientist from San Diego. 
 ## :book: About Me
 - 🎓 Bachelor's in Cognitive Science at UC San Diego
 - 🎨 My design philosophy revolves around making a difference in the lives of others. I think deeply about the people who will use my designs and the context of their experience.
